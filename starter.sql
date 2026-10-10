@@ -1,7 +1,4 @@
--- Student Name:
--- Register No:
 
--- Create Course table
 
 CREATE TABLE Course
 (
